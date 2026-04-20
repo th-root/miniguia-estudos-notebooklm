@@ -12,10 +12,10 @@ Este caderno temático foi criado com o objetivo de aprofundar os conhecimentos 
 🔗 Curadoria de Fontes  
 Para a elaboração deste material, foram utilizados os seguintes recursos (vídeos e apresentações) importados para o NotebookLM:  
 
-- Vídeo 1: Planejamento Estratégico de Negócios - O Processo de Administração Estratégica e a Obtenção de Vantagem (Aulas 1 e 2 - UNIVESP).  
-- Vídeo 2: Planejamento Estratégico de Negócios - Etapas do Processo de Administração Estratégica (UNIVESP).  
-- Slide 1: Fundamentos Básicos de Planejamento de Negócios - Parte 1 e 2.  
-- Slide 2: Vantagem Competitiva e Criação de Valor.  
+- Vídeo 1: [Planejamento Estratégico de Negócios](https://youtu.be/r86aiRemX1E?si=pjBB5dShEVEJSOj4) - O Processo de Administração Estratégica e a Obtenção de Vantagem (Aulas 1 e 2 - UNIVESP).  
+- Vídeo 2: [Planejamento Estratégico de Negócios](https://youtu.be/OSF6HjymDbg?si=OD5J-GnSvHbpFKC5) - Etapas do Processo de Administração Estratégica (UNIVESP).  
+- Slide 1: Fundamentos Básicos de Planejamento de Negócios - Parte 1 e 2 (acesso via AVA UNIVESP).  
+- Slide 2: Vantagem Competitiva e Criação de Valor (acesso via AVA UNIVESP).  
 
 🛠️ Engenharia de Prompts e "Cicatrizes" (Troubleshooting)  
 Durante a exploração do NotebookLM, o processo de elaboração de perguntas passou por refinamentos para extrair as melhores respostas da IA.  
